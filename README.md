@@ -1,2 +1,2 @@
 # hello-world
-Hello World
+Learn more about Software Engineering to resolve business issues and help customers
